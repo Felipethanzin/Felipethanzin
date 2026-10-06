@@ -17,16 +17,7 @@
     <img src="https://img.shields.io/badge/GITHUB-020617?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/felipemigueldev/">
-    <img src="https://img.shields.io/badge/LINKEDIN-075985?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.youtube.com/@EntreTags">
-    <img src="https://img.shields.io/badge/YOUTUBE-020617?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-</p>
-
-</div>
-
----
+    <img src="https://img.shields.io/badge/LINKED
 
 ## ⚡ Sobre mim
 
