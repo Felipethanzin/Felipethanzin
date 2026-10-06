@@ -1,113 +1,163 @@
-# 👨‍💻 FelipeMiguel.dev
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:0369a1&height=220&section=header&text=Felipe%20Miguel&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Tecnologia%20%7C%20Desenvolvimento%20%7C%20Infraestrutura%20%7C%20Suporte%20de%20TI&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,45:0f172a,75:075985,100:0284c7&text=FelipeMiguel.dev&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=DEVELOPMENT%20%7C%20INFRASTRUCTURE%20%7C%20NETWORK%20%7C%20IT&descAlignY=60&descSize=17&animation=fadeIn" width="100%"/>
 
 <br>
 
-### 🚀 Desenvolvedor • Infraestrutura • Suporte de TI • Tecnologia
+<a href="https://felipemigueldev.vercel.app">
+<img src="https://img.shields.io/badge/🌐%20PORTFÓLIO-020617?style=for-the-badge&logoColor=38BDF8">
+</a>
+<a href="https://github.com/Felipethanzin">
+<img src="https://img.shields.io/badge/GITHUB-020617?style=for-the-badge&logo=github&logoColor=ffffff">
+</a>
+<a href="https://www.linkedin.com/in/felipemigueldev/">
+<img src="https://img.shields.io/badge/LINKEDIN-075985?style=for-the-badge&logo=linkedin&logoColor=ffffff">
+</a>
+<a href="https://www.youtube.com/@EntreTags">
+<img src="https://img.shields.io/badge/YOUTUBE-020617?style=for-the-badge&logo=youtube&logoColor=ffffff">
+</a>
 
-<p>
-  <a href="https://felipemigueldev.vercel.app">
-    <img src="https://img.shields.io/badge/🌐%20Portfólio-020617?style=for-the-badge&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Felipethanzin">
-    <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/felipemigueldev/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.youtube.com/@EntreTags">
-    <img src="https://img.shields.io/badge/YouTube-DC2626?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-</p>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Felipethanzin&label=VISITAS%20NO%20PERFIL&color=0369a1&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Felipethanzin&style=for-the-badge&color=0284c7&label=PROFILE+VIEWS">
 
 </div>
 
 ---
 
-## 🧑‍💻 Sobre mim
+# `> whoami`
 
-```txt
-Nome       : Felipe Miguel
-Área       : Tecnologia da Informação
-Foco       : Desenvolvimento • Infraestrutura • Suporte
-Especial.  : Redes • Hardware • Sistemas • Monitoramento
-Stack      : HTML • CSS • JavaScript • Python • Java
-Ambiente   : Windows • Linux
-Atualmente : Construindo projetos e soluções em TI
+```bash
+┌──(felipe㉿dev)-[~/workspace]
+└─$ whoami
+
+Felipe Miguel
 ```
-
-Sou profissional da área de **Tecnologia da Informação**, com experiência em **suporte técnico, infraestrutura, redes, hardware e desenvolvimento de sistemas**.
-
-Gosto de transformar problemas técnicos em soluções práticas, criando ferramentas, dashboards, sistemas internos e automações.
-
-> 💡 **Tecnologia não é apenas código. É entender o problema, construir a solução e fazer tudo funcionar.**
-
----
-
-# ⚡ Tech Stack
-
-### 💻 Desenvolvimento
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java" />
-</p>
-
-### 🖥️ Infraestrutura & Sistemas
-
-<p>
-<img src="https://skillicons.dev/icons?i=linux,windows,bash,git,github,vscode" />
-</p>
-
-### 🌐 Redes & Monitoramento
 
 ```text
-┌─────────────────────────────────────────────────────┐
-│                  INFRASTRUCTURE                     │
-├─────────────────────────────────────────────────────┤
-│                                                     │
-│   🌐 Redes              🖥️ Servidores              │
-│   📡 TCP/IP             🔐 Segurança                │
-│   🛜 Infraestrutura     📊 Monitoramento            │
-│   🧩 Suporte            ⚙️ Automação                │
-│   🖥️ Hardware           📈 Zabbix                   │
-│                                                     │
-└─────────────────────────────────────────────────────┘
+╭──────────────────────────────────────────────────────────────╮
+│                                                              │
+│   👨‍💻  FELIPE MIGUEL                                         │
+│                                                              │
+│   Tecnologia da Informação                                   │
+│   Desenvolvimento • Infraestrutura • Redes • Suporte        │
+│                                                              │
+│   ├── 🌐 Desenvolvimento Web                                │
+│   ├── 🖥️ Infraestrutura                                     │
+│   ├── 📡 Redes                                               │
+│   ├── 📊 Monitoramento                                      │
+│   ├── 🔧 Hardware                                            │
+│   └── ⚙️ Automação                                           │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
+```
+
+Sou profissional de **Tecnologia da Informação**, atuando entre desenvolvimento, infraestrutura, redes, suporte técnico e monitoramento.
+
+Meu foco é criar soluções que sejam **úteis, funcionais, organizadas e visualmente profissionais**.
+
+> `Transformando problemas de TI em soluções.`
+
+---
+
+# ⚡ `SYSTEM STATUS`
+
+<div align="center">
+
+| STATUS | INFORMAÇÃO |
+|:---:|:---|
+| 🟢 | **ONLINE** |
+| 💻 | Desenvolvimento |
+| 🌐 | Infraestrutura |
+| 📡 | Redes |
+| 📊 | Monitoramento |
+| 🔧 | Suporte / Hardware |
+| 🐧 | Linux |
+| 🪟 | Windows |
+
+</div>
+
+---
+
+# 🧠 `TECH STACK`
+
+### 💻 Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java&theme=dark" />
+</p>
+
+### 🖥️ Systems & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,windows,bash,git,github,vscode&theme=dark" />
+</p>
+
+### 🌐 Infrastructure
+
+```text
+                 ┌──────────────────────┐
+                 │    FELIPEMIGUEL.dev  │
+                 └──────────┬───────────┘
+                            │
+             ┌──────────────┼──────────────┐
+             │              │              │
+          DEVELOPMENT   INFRASTRUCTURE   NETWORK
+             │              │              │
+        ┌────┴────┐    ┌────┴────┐    ┌────┴────┐
+        │ HTML    │    │ Linux   │    │ TCP/IP  │
+        │ CSS     │    │ Windows │    │ Services│
+        │ JS      │    │ Zabbix  │    │ Support │
+        │ Python  │    │ Servers │    │ Troubles│
+        │ Java    │    │ NOC     │    │hooting  │
+        └─────────┘    └─────────┘    └─────────┘
 ```
 
 ---
 
-# 🚀 Projetos em destaque
+# 🚀 `FEATURED PROJECTS`
 
 ## 🛰️ DEPFMRJ NOC
 
-Sistema de monitoramento e gerenciamento de infraestrutura utilizando **Zabbix**, dashboards e ferramentas auxiliares.
+> Plataforma de monitoramento e gerenciamento de infraestrutura.
 
-**Tecnologias:**
+```text
+STATUS       : ████████████████████  ONLINE
+MONITORING   : ZABBIX
+PLATFORM     : LINUX
+HOSTS        : INFRASTRUCTURE
+DASHBOARD    : NOC
+NETWORK      : TCP/IP
+```
 
-`Zabbix` `Linux` `Windows` `JavaScript` `HTML` `CSS` `API`
-
-Principais objetivos:
+### Recursos
 
 - 📡 Monitoramento de hosts
 - 🖥️ Inventário de computadores
-- 🌐 Monitoramento de rede
-- 📊 Dashboards NOC
-- ⚠️ Alertas e disponibilidade
-- 📈 Métricas de infraestrutura
-- 🔎 Diagnóstico de problemas
+- 🌐 Informações de rede
+- 📊 Dashboards
+- ⚠️ Alertas
+- 📈 Métricas
+- 🔎 Diagnóstico
+- 🛠️ Administração de infraestrutura
 
 ---
 
-## 🗂️ SISMAR — Catálogo de Sistemas
+## 🗂️ SISMAR
 
-Interface web para organização e acesso rápido a sistemas internos.
+### `Catálogo de Sistemas`
 
-**Conceito:** uma experiência inspirada em plataformas modernas de catálogo, com foco em **usabilidade, organização e velocidade**.
+Interface moderna para centralizar sistemas e ferramentas utilizadas no ambiente de TI.
+
+```text
+SEARCH       → 🔎
+SYSTEMS      → 🗂️
+ACCESS       → 🚀
+INFORMATION  → ℹ️
+RESPONSIVE   → ✓
+```
+
+**Stack**
 
 `HTML` `CSS` `JavaScript`
 
@@ -115,145 +165,234 @@ Interface web para organização e acesso rápido a sistemas internos.
 
 ## 🤖 UltraNetX
 
-Projeto de interface e plataforma de inteligência artificial com foco em **tecnologia, produtividade e suporte de TI**.
+### `AI • TECHNOLOGY • PRODUCTIVITY`
 
-Recursos planejados:
-
-- 🤖 Assistente de IA
-- 📁 Upload de arquivos
-- 💬 Interface conversacional
-- 🧠 Integração com APIs
-- 🖥️ Interface responsiva
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Felipethanzin&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=0369a1"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipethanzin&layout=compact&langs_count=8&theme=github_dark&border_color=0369a1"/>
-
-</div>
-
----
-
-# 📈 Atividade
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Felipethanzin&bg_color=020617&color=38bdf8&line=0ea5e9&point=ffffff&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-# 🧠 O que estou estudando
+Projeto de plataforma de inteligência artificial com foco em tecnologia e suporte.
 
 ```text
-01  ▸ Desenvolvimento Web
-02  ▸ Python
-03  ▸ Java
-04  ▸ APIs
-05  ▸ Linux
-06  ▸ Redes
-07  ▸ Infraestrutura
-08  ▸ Zabbix
-09  ▸ Cybersecurity
-10  ▸ Automação
+┌─────────────────────────────────────┐
+│             UltraNetX               │
+├─────────────────────────────────────┤
+│  🤖 AI Assistant                    │
+│  💬 Conversational Interface        │
+│  📁 File Upload                     │
+│  🔌 API Integration                 │
+│  🖥️ Modern Interface                │
+└─────────────────────────────────────┘
 ```
 
 ---
 
-# 🛠️ Conhecimentos
-
-| Área | Tecnologias / Conhecimentos |
-|---|---|
-| 🌐 Web | HTML, CSS, JavaScript |
-| 🐍 Backend | Python |
-| ☕ Desenvolvimento | Java |
-| 🖥️ Sistemas | Windows / Linux |
-| 🌐 Redes | TCP/IP, infraestrutura e troubleshooting |
-| 🛡️ Segurança | Fundamentos de Cybersecurity |
-| 📊 Monitoramento | Zabbix |
-| 🔧 Hardware | Montagem, manutenção e diagnóstico |
-| ⚙️ Ferramentas | Git, GitHub, VS Code |
-| 📡 Infraestrutura | Suporte, redes e servidores |
-
----
-
-# 🎯 Objetivos
-
-```text
-▸ Desenvolver soluções profissionais
-▸ Evoluir em infraestrutura e redes
-▸ Aprimorar conhecimentos em programação
-▸ Criar sistemas úteis para ambientes reais
-▸ Trabalhar com automação e monitoramento
-▸ Construir uma carreira sólida em Tecnologia
-```
-
----
-
-# 🌎 Onde me encontrar
+# 📊 `GITHUB ANALYTICS`
 
 <div align="center">
 
-### 🌐 Portfólio
+<img src="https://github-readme-stats.vercel.app/api?username=Felipethanzin&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=020617&title_color=38bdf8&icon_color=0ea5e9&text_color=cbd5e1" height="180">
 
-**felipemigueldev.vercel.app**
-
-### 💻 GitHub
-
-**github.com/Felipethanzin**
-
-### 💼 LinkedIn
-
-**linkedin.com/in/felipemigueldev**
-
-### ▶️ YouTube
-
-**youtube.com/@EntreTags**
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipethanzin&layout=compact&langs_count=8&hide_border=true&bg_color=020617&title_color=38bdf8&text_color=cbd5e1" height="180">
 
 </div>
 
 ---
 
-# 📫 Contato
-
-Quer conversar sobre **tecnologia, desenvolvimento, infraestrutura, redes ou projetos?**
-
-Entre em contato através das minhas redes.
+# 📈 `ACTIVITY`
 
 <div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Felipethanzin&bg_color=020617&color=38bdf8&line=0284c7&point=ffffff&area=true&hide_border=true" width="100%">
+
+</div>
+
+---
+
+# 🧩 `CURRENT FOCUS`
+
+```text
+╭──────────────────────────────────────────────────────────╮
+│                                                          │
+│  [01] Desenvolvimento Web                         ████░  │
+│  [02] Python                                      ███░░  │
+│  [03] Java                                        ███░░  │
+│  [04] Linux                                       ████░  │
+│  [05] Redes                                       ████░  │
+│  [06] Infraestrutura                              ████░  │
+│  [07] Zabbix                                      ████░  │
+│  [08] Cybersecurity                               ███░░  │
+│  [09] Automação                                   ███░░  │
+│                                                          │
+╰──────────────────────────────────────────────────────────╯
+```
+
+---
+
+# 🛠️ `WHAT I DO`
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌐 Desenvolvimento
+
+- Interfaces Web
+- Sistemas internos
+- Dashboards
+- APIs
+- Automação
+- Front-end
+
+</td>
+<td width="50%">
+
+### 🖥️ Infraestrutura
+
+- Windows
+- Linux
+- Redes
+- Servidores
+- Monitoramento
+- Troubleshooting
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 🔧 Hardware
+
+- Montagem
+- Manutenção
+- Diagnóstico
+- Instalação
+- Configuração
+- Otimização
+
+</td>
+<td>
+
+### 📊 Monitoramento
+
+- Zabbix
+- Hosts
+- Métricas
+- Alertas
+- Dashboards
+- NOC
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🧭 `ROADMAP`
+
+```text
+2026
+│
+├── ████████████████████ Desenvolvimento
+│
+├── ██████████████████░░ Infraestrutura
+│
+├── ████████████████░░░░ Redes
+│
+├── ███████████████░░░░░ Linux
+│
+├── ██████████████░░░░░░ Zabbix / NOC
+│
+├── ████████████░░░░░░░░ Cybersecurity
+│
+└── ██████████░░░░░░░░░░ Automação
+```
+
+---
+
+# 🔐 `MY PHILOSOPHY`
+
+> **"Código é ferramenta. Tecnologia é solução."**
+
+```text
+LEARN
+  ↓
+BUILD
+  ↓
+TEST
+  ↓
+IMPROVE
+  ↓
+DEPLOY
+  ↓
+MONITOR
+  ↓
+REPEAT
+```
+
+---
+
+# 🌐 `CONNECT`
+
+<div align="center">
+
+### 👨‍💻 FelipeMiguel.dev
 
 <a href="https://felipemigueldev.vercel.app">
-<img src="https://img.shields.io/badge/PORTFÓLIO-0369A1?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/🌐%20PORTFÓLIO-0284C7?style=for-the-badge">
 </a>
 
 <a href="https://github.com/Felipethanzin">
-<img src="https://img.shields.io/badge/GITHUB-020617?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-020617?style=for-the-badge&logo=github">
 </a>
 
 <a href="https://www.linkedin.com/in/felipemigueldev/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-075985?style=for-the-badge&logo=linkedin">
 </a>
 
 <a href="https://www.youtube.com/@EntreTags">
-<img src="https://img.shields.io/badge/YOUTUBE-DC2626?style=for-the-badge&logo=youtube&logoColor=white"/>
+<img src="https://img.shields.io/badge/YOUTUBE-020617?style=for-the-badge&logo=youtube">
 </a>
+
+<br><br>
+
+`felipemigueldev.vercel.app`
 
 </div>
 
 ---
 
+# 🖥️ `TERMINAL`
+
+```bash
+$ cd ~/FelipeMiguel.dev
+
+$ git status
+
+On branch main
+Your technology is up to date.
+
+$ ./build.sh
+
+[✓] Development
+[✓] Infrastructure
+[✓] Networking
+[✓] Monitoring
+[✓] Support
+[✓] Innovation
+
+$ echo "FelipeMiguel.dev"
+
+Technology in progress...
+```
+
+---
+
 <div align="center">
 
-### ⚡ `CODE • NETWORK • INFRASTRUCTURE • INNOVATION`
+## `CODE • NETWORK • INFRASTRUCTURE • INNOVATION`
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0369a1,50:0f172a,100:020617&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:0284c7,45:075985,75:0f172a,100:020617&section=footer" width="100%">
+
+<sub>© FelipeMiguel.dev — Built with technology, curiosity and code.</sub>
 
 </div>
