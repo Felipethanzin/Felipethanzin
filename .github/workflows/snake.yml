@@ -1,22 +1,16 @@
-```yaml
 name: Generate Contribution Snake
 
 on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 permissions:
   contents: write
 
 jobs:
   generate:
-    name: Generate Snake
     runs-on: ubuntu-latest
-    timeout-minutes: 10
 
     steps:
       - name: Generate Snake
@@ -30,9 +24,7 @@ jobs:
       - name: Publish Snake
         uses: crazy-max/ghaction-github-pages@v5
         with:
-          target_branch: output
           build_dir: dist
-          jekyll: false
+          target_branch: output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
