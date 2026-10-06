@@ -1,4 +1,4 @@
-```md
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:020617,45:0f172a,75:075985,100:0284c7&text=FelipeMiguel.dev&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=DEV%20%7C%20INFRA%20%7C%20NETWORK%20%7C%20IT&descAlignY=60&descSize=15&animation=fadeIn" width="100%">
@@ -32,7 +32,7 @@
 > Felipe Miguel
 > DEV • INFRA • NETWORK • IT
 > Hardware • Linux • Windows • Zabbix
-```
+
 
 Transformo problemas de tecnologia em **soluções práticas, modernas e eficientes**.
 
